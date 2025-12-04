@@ -26,7 +26,7 @@ It demonstrates:
 
 ---
 
-✅ **Next steps:**
+ **Next steps:**
 
 1. Replace `your-username` in the URL with your GitHub username.
 2. Save the file as `README.md` in your project folder.
@@ -36,3 +36,4 @@ It demonstrates:
 git add README.md
 git commit -m "Add polished README"
 git push
+
