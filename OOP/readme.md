@@ -44,3 +44,6 @@
 ## Notes
 - The test file import unittest.py demonstrates a unittest structure targeting a TaskService in src/, which is not part of this shoe inventory program and may not run here.
 
+- https://github.com/hyperiondev-bootcamps/JO25080018810/tree/main/Level%201%20-%20Python%20for%20Software%20Engineering/M03T07%20%E2%80%93%20OOP%20%E2%80%93%20Synthesis
+
+
